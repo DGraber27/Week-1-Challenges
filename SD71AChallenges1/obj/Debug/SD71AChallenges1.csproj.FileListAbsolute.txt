@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\bin\Debug\SD71AChallenges1.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\bin\Debug\SD71AChallenges1.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\bin\Debug\SD71AChallenges1.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\obj\Debug\SD71AChallenges1.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\obj\Debug\SD71AChallenges1.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\obj\Debug\SD71AChallenges1.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\SD71AChallenges1\obj\Debug\SD71AChallenges1.pdb
